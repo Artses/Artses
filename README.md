@@ -1,15 +1,11 @@
-<div align="center">
+
   ### Olá👋
-  <div align="Start">
+
   - 😁 Me chamo Arthur!
-  </div>
-  <div align="Start">
   - 🔭 Estou atualmente trabalhando em Web API's
-  </div>
-  <div align="Start">
   - 🌱 Estou atualmente aprendendo C#
-  </div>
-  
+
+<div align="center">
   <div align="center">
     <a href="https://github.com/Artses">
     <a href="https://github.com/anuraghazra/github-readme-stats">
