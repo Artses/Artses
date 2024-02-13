@@ -19,7 +19,7 @@
   </div>
 </div>
 <br>
-<div">
+<div>
       <div>
           <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -28,9 +28,9 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-        <div align="rigth">
-          <img  src="https://c.tenor.com/RhdHWyoRKyYAAAAC/tenor.gif" width="100">
-        </div>
+      </div>
+      <div align="rigth">
+        <img  src="https://c.tenor.com/RhdHWyoRKyYAAAAC/tenor.gif" width="100">
       </div>
   </div>
 
