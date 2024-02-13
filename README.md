@@ -13,6 +13,6 @@
 </a>
 </div>
 
- ![Snake animation](https://github.com/ramonbr14/ramonbr14/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Artses/Artses/blob/output/github-contribution-grid-snake.svg)
  
 </div>
