@@ -18,3 +18,12 @@
     </a>
   </div>
 </div>
+<br>
+
+<div display: flex>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="right-start" src="https://c.tenor.com/RhdHWyoRKyYAAAAC/tenor.gif" width="100">
+</div>
+
+
+
