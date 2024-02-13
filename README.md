@@ -11,3 +11,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artses&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+</div>
+
+ ![Snake animation](https://github.com/ramonbr14/ramonbr14/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
