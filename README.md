@@ -2,8 +2,8 @@
   ### Olá👋
 
   - 😁 Me chamo Arthur!
-  - 🔭 Estou atualmente trabalhando em Web API's
   - 🌱 Estou atualmente aprendendo C#
+  - 🔭 Estou atualmente trabalhando em Web API's
 
 
 <br>
