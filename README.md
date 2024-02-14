@@ -31,6 +31,3 @@
           <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
           <img src="https://c.tenor.com/RhdHWyoRKyYAAAAC/tenor.gif" width="100">
   </div>
-
-
-
