@@ -2,7 +2,7 @@
   ### Olá👋
 
   - 😁 Me chamo Arthur!
-  - 🌱 Estou atualmente aprendendo C#
+  - 🌱 Estou atualmente aprendendo JS
   - 🔭 Estou atualmente estudando sobre Web API's
 
 
