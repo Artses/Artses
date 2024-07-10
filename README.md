@@ -2,8 +2,8 @@
   ### Olá👋
 
   - 😁 Me chamo Arthur!
-  - 🌱 Estou atualmente aprendendo JS
-  - 🔭 Estou atualmente estudando sobre Web API's
+  - 🌱 Estou atualmente aprendendo Blazor
+  - 🔭 Estou atualmente estudando sobre API's RESTFUL
 
 
 <br>
