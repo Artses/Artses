@@ -3,7 +3,7 @@
 
   - 😁 Me chamo Arthur!
   - 🌱 Estou aprendendo Blazor
-  - 🔭 Atualmente estudando sobre API's RESTFUL
+  - 🔭 Atualmente estudando sobre FACE ID
 
 
 <br>
