@@ -2,8 +2,8 @@
   ### Olá👋
 
   - 😁 Me chamo Arthur!
-  - 🌱 Estou aprendendo Blazor
-  - 🔭 Atualmente estudando sobre FACE ID
+  - 🌱 Estou aprendendo ASP.NET
+  - 🔭 Atualmente estudando sobre aplicações real time
 
 
 <br>
