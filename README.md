@@ -2,8 +2,8 @@
   ### Olá👋
 
   - 😁 Me chamo Arthur!
-  - 🌱 Estou aprendendo ASP.NET
-  - 🔭 Atualmente estudando sobre aplicações real time
+  - 👀 Estou estudando a area de DevOps
+  - 🐋 Atualmente estudando sobre Docker
 
 
 <br>
