@@ -3,7 +3,6 @@
 
   - 😁 Me chamo Arthur!
   - 👀 Estou estudando a area de DevOps
-  - 🐋 Atualmente estudando sobre Docker
 
 
 <br>
