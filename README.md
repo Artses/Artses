@@ -43,4 +43,5 @@
 
 <br><br>
 
-> "Automate what is repetitive, simplify what is complex."
+> "I'm a follower of the KISS.
+> Click here for knowing more -> https://en.wikipedia.org/wiki/KISS_principle"
