@@ -43,5 +43,5 @@
 
 <br><br>
 
-> "I'm a follower of the KISS.
-> Click here for knowing more -> https://en.wikipedia.org/wiki/KISS_principle"
+> "I'm a KISS adept.
+> Click here for learn more -> https://en.wikipedia.org/wiki/KISS_principle"
