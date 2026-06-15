@@ -43,5 +43,5 @@
 
 <br><br>
 
-> "I'm a KISS adept.
-> Click here for learn more -> https://en.wikipedia.org/wiki/KISS_principle"
+> I'm a KISS adept.
+> Learn more -> https://en.wikipedia.org/wiki/KISS_principle"
