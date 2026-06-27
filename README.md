@@ -1,14 +1,6 @@
 # Hello, I'm Arthur 👋
 
-🚀 DevOps enginner. Passionate about cloud computing, automation, and infrastructure.
-
-📚 Currently studying and building projects with:
-- AWS & Azure
-- Terraform & Ansible
-- Docker & Kubernetes
-- Linux & Networking
-- CI/CD
-- Python & Bash
+🚀 DevOps enginner. Passionate about cloud computing.
 
 🎯 Always looking to learn new technologies and improve my skills in DevOps, Cloud, and Platform Engineering.
 
