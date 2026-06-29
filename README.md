@@ -2,7 +2,7 @@
 
 🚀 DevOps enginner. Passionate about cloud computing.
 
-🎯 Always looking to learn new technologies and improve my skills in DevOps, Cloud, and Platform Engineering.
+🎯 Here you gonna see me trying to learn new technologies and improve my skills as a DevOps.
 
 <br>
 
