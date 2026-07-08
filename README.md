@@ -4,14 +4,6 @@
 
 🎯 Here you gonna see me trying to learn new technologies and improve my skills as a DevOps.
 
-<br>
-
-<div align="center">
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-<br>
-
 ## 🛠️ Technologies & Tools
 
 <div>
