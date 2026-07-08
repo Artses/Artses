@@ -7,10 +7,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Artses">
-    <img src="https://github-readme-stats.vercel.app/api?username=Artses&show_icons=true&theme=tokyonight" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artses&layout=compact&theme=tokyonight" height="180"/>
-  </a>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <br>
