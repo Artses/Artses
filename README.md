@@ -2,7 +2,7 @@
 
 🚀 DevOps enginner. Passionate about cloud computing.
 
-🎯 Here you gonna see me trying to learn new technologies and improve my skills as a DevOps. 
+🎯 Here you gonna see me trying to learn new technologies and improve my skills as a DevOps.  
 
 ## 🛠️ Technologies & Tools
 
