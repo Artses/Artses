@@ -6,6 +6,7 @@
 
 ## 🛠️ Technologies & Tools
 
+
 <div>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -16,6 +17,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 
+  <br><br>
   <img align="right" src="https://c.tenor.com/RhdHWyoRKyYAAAAC/tenor.gif" width="120">
 </div>
 
